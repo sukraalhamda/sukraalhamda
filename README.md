@@ -8,7 +8,7 @@
 
 <img src="./08-divider.svg" alt="divider" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Sukra Alhamda</h1>
+
 <h3 align="center">A Computer Science Student | Aspiring Full-Stack Developer from Indonesia</h3>
 
 <div align="center">
